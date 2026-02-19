@@ -31,5 +31,5 @@
 
 ## 📄 Артефакты
 - 📊 [Диаграмма последовательности (UML Sequence Diagram)](https://github.com/Aliam-Tukhvatulin/Otium/blob/0267a76b38cb8da98f43be7a6a560d48dce59d9f/UML%20sequence%20diagram%20%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.drawio.svg)
-- 📝 [Задача на разработку API](https://github.com/Aliam-Tukhvatulin/Otium/blob/0267a76b38cb8da98f43be7a6a560d48dce59d9f/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83_v3.docx)
+- 📝 [Задача на разработку API](https://github.com/Aliam-Tukhvatulin/Otium/blob/723c26e0f370afcf440fdf9ae0bd0b7c23dfdadd/docs/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83.pdf)
 - 🧩 [Диаграмма компонентов](https://github.com/Aliam-Tukhvatulin/Otium/blob/0267a76b38cb8da98f43be7a6a560d48dce59d9f/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.png) 
